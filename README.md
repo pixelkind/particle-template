@@ -8,4 +8,13 @@ You can choose for yourself, if you want new particles to be created on click, l
 
 Don't forget to use the `import` statement in the sketch file, to import and create your new particles.
 
+Possible additions/changes could be:
+
+- Change x and y position and the type of movement
+- Change the position based on an angle
+- Change the color over time
+- Change the opacity over time
+- Change the form of the particle
+- ...
+
 After you are finished, please commit your solution to GitHub, post the link to your published GitHub Page on Canvas and show your solution to Eveline and/or Garrit before you leave.
