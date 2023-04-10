@@ -4,9 +4,15 @@ export default class Particle {
     this.y = y;
   }
 
-  update() {}
+  update() {
+    // update the position of your particle
+  }
 
-  draw() {}
+  draw() {
+    // draw the particle
+  }
 
-  isDead() {}
+  isDead() {
+    return false;
+  }
 }
