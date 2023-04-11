@@ -4,6 +4,8 @@ In this assignment, you will implement **at least two new particles** based on t
 
 In your new classes, you should override the `update` function, to update the position of the particle and do all necessary calculations. To draw your particle, you should override the `draw` function. If your particle has a maximum life span, like in the `Fire` example, you can override the `isDead` function, to return `true`, when a particle can be removed.
 
+**Don't change anything on the `Particle` class.**
+
 You can choose for yourself, if you want new particles to be created on click, like in the example, or automatic, for example 5 new particles every frame. Play around with it and try it out.
 
 Don't forget to use the `import` statement in the sketch file, to import and create your new particles.
